@@ -1,0 +1,3 @@
+D:\EPiServer\Projects\AzureFabric\ReliableService\azure-reliable-services\MyReliableServices\Stateful1\obj\Debug\netcoreapp2.0\win7-x64\Stateful1.csproj.CoreCompileInputs.cache
+D:\EPiServer\Projects\AzureFabric\ReliableService\azure-reliable-services\MyReliableServices\Stateful1\obj\Debug\netcoreapp2.0\win7-x64\Stateful1.AssemblyInfoInputs.cache
+D:\EPiServer\Projects\AzureFabric\ReliableService\azure-reliable-services\MyReliableServices\Stateful1\obj\Debug\netcoreapp2.0\win7-x64\Stateful1.AssemblyInfo.cs
